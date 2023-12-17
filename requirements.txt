@@ -1,0 +1,6 @@
+pip install streamlit
+pip install tensorflow
+pip install Pillow
+
+#for better perfomance
+pip install watchdog
