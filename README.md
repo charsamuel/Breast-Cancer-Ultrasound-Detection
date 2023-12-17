@@ -1,1 +1,1 @@
-Breast Cancer detection with ultrasound pictures using Google teachable machine
+Breast Cancer detection with ultrasound images using Google teachable machine
