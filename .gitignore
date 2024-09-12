@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.virtualenv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+.pytest_cache/
+.coverage
+.coverage.*
+
+# macOS and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+*.out
+*.err
+
+# Static files (if uploaded to cloud storage like S3)
+staticfiles/
+mediafiles/
+
+# Large dependencies (optional - only include if these are not needed)
+node_modules/
+lib/
+
+# Heroku build artifacts
+.heroku/
+
+# SQLite database files
+*.db
+
+# Large binary files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mp3
